@@ -11,25 +11,6 @@ Welcome to the **Machine Learning Lab** repository! This repository contains a s
 
 ---
 
-## 📁 Repository Structure
-
-```
-
-Machine-Learning-Lab/
-├── Assignment 1/        # Assignment on basic ML concepts
-├── Assignment 2/        # Assignment using 'us-500.csv' dataset
-├── Assignment 3/        # ML algorithm-based task
-├── Assignment 4/        # Regression/classification-related implementation
-├── Assignment 5/        # Advanced algorithm exploration
-├── Assignment 6/        # Project with pre-processing & modeling
-├── Assignment 7/        # Final assignment or project
-├── PA\_1.ipynb           # Practical Assignment - 1 in notebook format
-└── README.md            # Project overview
-
-````
-
----
-
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites

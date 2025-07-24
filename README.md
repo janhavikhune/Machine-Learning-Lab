@@ -104,12 +104,6 @@ This is a student-focused project repository. Suggestions and improvements are a
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙌 Acknowledgments
 
 Thanks to mentors, professors, and the open-source ML community for guidance and resources.

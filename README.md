@@ -4,11 +4,10 @@ Thanks for the screenshot! Based on the structure of your repository `Machine-Le
 
 ---
 
-```markdown
 🧠 Machine-Learning-Lab
 
 Welcome to the **Machine Learning Lab** repository! This repository contains a series of practical machine learning assignments and Jupyter notebooks developed as part of coursework or self-practice. Each folder is dedicated to a specific assignment and contains well-organized code and relevant datasets.
-```
+
 ---
 
 🚀 Getting Started

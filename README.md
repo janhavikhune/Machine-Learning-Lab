@@ -87,15 +87,6 @@ This is a student-focused project repository. Suggestions and improvements are a
 
 ## 🙌 Acknowledgments
 
-Thanks to mentors, professors, and the open-source ML community for guidance and resources.
+Thanks to mentors, professors, and the open-source platforms for guidance and resources.
 
 ---
-
-Happy Learning! 🚀
-
-```
-
----
-
-Let me know if you'd like me to generate a `.md` file version you can download directly or want me to update anything like descriptions of each assignment.
-```
